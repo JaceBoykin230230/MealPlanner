@@ -1,6 +1,6 @@
 # Meal Planner Application
 
-This is a Meal Planner application designed to showcase backend knowledge using a PostgreSQL database. The application allows users to generate meal plans based on their goals, whether they are trying to lose weight or gain weight.
+This is a Meal Planner application designed to show backend knowledge using a PostgreSQL database. The application allows users to generate meal plans based on their goals, whether they are trying to lose weight or gain weight.
 
 ## Table Design in PostgreSQL
 
