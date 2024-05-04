@@ -2,14 +2,6 @@
 
 This is a Meal Planner application designed to showcase backend knowledge using a PostgreSQL database. The application allows users to generate meal plans based on their goals, whether they are trying to lose weight or gain weight.
 
-## Features
-
-- **User Management**: Users can enter their information, including their age, gender, height, weight, and goals (lose weight or gain weight).
-- **Meal and Ingredient Management**: The application contains premade meals and ingredients stored in the PostgreSQL database.
-- **Meal Plan Generation**: Depending on the user's goals, the application generates meal plans with different types of meals. For users trying to gain weight, high-calorie and high-protein meals are recommended, while for users trying to lose weight, low-calorie meals are suggested.
-- **Query Operations**: The application performs various types of queries, including joins, subqueries, filtering, and sorting, to retrieve and manipulate data from the database.
-- **User-specific Meal Plans**: Each user can view their personalized meal plan, which is created based on their goals and preferences.
-
 ## Table Design in PostgreSQL
 
 The PostgreSQL database consists of the following tables:
