@@ -1,0 +1,62 @@
+ingredient_id,ingredient_name,calories,protein,carbs,fat
+1,Chicken Breast,231,43.2,0,3.6
+2,Brown Rice,112,2.6,23.5,0.9
+3,Broccoli,55,4.6,10.3,0.6
+4,Salmon Fillet,206,22,0,13.4
+5,Sweet Potato,90,2,21,0.1
+6,Quinoa,120,4.1,21.3,1.9
+7,Egg,78,6.3,0.6,5.3
+8,Spinach,23,2.9,3.6,0.4
+9,Oatmeal,68,2.4,12,1.4
+10,Greek Yogurt,59,10,3.6,0.4
+11,Almonds,7,0.3,0.3,0.6
+12,Apple,52,0.3,13.8,0.2
+13,Blueberries,57,0.7,14.5,0.3
+14,Strawberries,32,0.7,7.7,0.3
+15,Banana,89,1.1,22.8,0.3
+16,Avocado,160,2,8.5,14.7
+17,Carrot,41,0.9,9.6,0.2
+18,Green Beans,31,1.8,6.9,0.2
+19,Peas,81,5.4,14.4,0.4
+20,Chickpeas,164,8.9,27.4,2.6
+21,Black Beans,339,21,63,1.4
+22,Lentils,230,18,40,1
+23,Beef,250,26,0,15
+24,Pork,242,25,0,15
+25,Turkey,189,29,0,8
+26,Shrimp,99,24,0,1.7
+27,Tofu,144,16,3.9,8
+28,Cottage Cheese,98,11,3.4,4
+29,Cheddar Cheese,403,25,1.3,33
+30,Salami,336,15,2,28
+31,Pepperoni,494,20,1.9,44
+32,Whole Milk,61,3.2,4.8,3.3
+33,Skim Milk,35,3.4,5,0.4
+34,White Rice,130,2.4,28.7,0.2
+35,Cauliflower,25,1.9,5,0.3
+36,Asparagus,20,2.2,3.9,0.2
+37,Pineapple,50,0.5,13.1,0.1
+38,Kale,50,3.3,9,0.6
+39,Red Bell Pepper,31,1.3,6,0.3
+40,Lemon,29,1.1,9,0.3
+41,Lime,30,0.7,10.5,0.2
+42,Mushrooms,22,3.1,3.3,0.3
+43,Red Onion,40,1.1,9.3,0.1
+44,Cucumber,16,0.7,3.6,0.1
+45,Cilantro,23,2.1,3.7,0.5
+46,Garlic,4,0.2,1,0
+47,Ginger,80,1.8,17.8,0.8
+48,Jalapeno Pepper,4,0.2,0.9,0.1
+49,Basil,22,3,2.7,0.6
+50,Olive Oil,119,0,0,13.5
+51,Coconut Oil,121,0,0,13.5
+52,Canola Oil,124,0,0,14
+53,Honey,304,0.3,82.1,0
+54,Maple Syrup,260,0,67,0
+55,Balsamic Vinegar,14,0.1,3.4,0
+56,Soy Sauce,8,0.9,0.9,0
+57,Agave Nectar,310,0,76,0
+58,Red Wine Vinegar,3,0,0.1,0
+59,Dijon Mustard,66,5.4,3.4,4.2
+60,Mayonnaise,680,0.5,0.6,75
+

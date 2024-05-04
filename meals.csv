@@ -1,0 +1,62 @@
+meal_id,meal_name,calories,ingredient_ids,protein,carbs,fat,meal_type
+1,Breakfast Burrito,380,"7,8,15,22",26.3,34.2,14.5,breakfast
+2,Fruit and Yogurt Parfait,220,"10,13,14,15",15.1,42.8,2.2,breakfast
+3,Egg and Avocado Toast,310,"7,16,16",14.2,22.4,15.7,breakfast
+4,Oatmeal with Berries and Almonds,280,"9,13,11,11",9.9,42.1,8.6,breakfast
+5,Smoothie Bowl with Spinach and Banana,290,"8,15,20,32",12.6,53.7,4.9,breakfast
+6,Chicken Caesar Salad,450,"1,8,14,28",37.5,12.9,26.3,lunch
+7,Quinoa Salad with Grilled Vegetables,320,"6,3,5,18",12.7,56.8,7.4,lunch
+8,Turkey and Avocado Wrap,380,"25,16,16,27",32.3,31.9,17.5,lunch
+9,Salmon and Asparagus,380,"4,18,30",38.2,16.7,17.9,lunch
+10,Vegetable Stir Fry with Tofu,320,"27,18,19,26",22.6,28.9,13.2,lunch
+11,Beef and Broccoli,420,"23,3,18",34.5,18.7,23.8,lunch
+12,Chickpea and Spinach Curry,350,"20,8,18",15.9,52.4,11.3,lunch
+13,Black Bean and Sweet Potato Tacos,380,"21,5,22,23",17.3,49.8,10.1,lunch
+14,Mediterranean Pasta Salad,350,"29,3,14,30",17.5,47.2,10.8,lunch
+15,Shrimp Scampi with Linguine,420,"26,3,32",31.2,42.8,9.6,dinner
+16,Pork Tenderloin with Roasted Vegetables,450,"24,3,17,18",44.7,28.1,17.3,dinner
+17,Teriyaki Chicken with Rice and Broccoli,420,"1,2,3,18",33.2,49.5,13.6,dinner
+18,Spaghetti Bolognese,380,"23,29,32",26.4,45.1,10.9,dinner
+19,Vegetarian Chili with Cornbread,350,"20,21,30",20.5,43.9,8.2,dinner
+20,Pancakes with Maple Syrup and Bacon,450,"9,54,24,11",14.3,61.6,18.2,breakfast
+21,Avocado Toast with Poached Egg and Smoked Salmon,380,"7,16,16,4",29.5,22.7,20.6,breakfast
+22,Breakfast Hash with Eggs and Sausage,420,"7,24,32",25.8,29.3,21.5,breakfast
+23,Smoothie with Mixed Berries and Kale,280,"13,14,38",8.7,58.4,4.3,breakfast
+24,Lunch Bowl with Quinoa,350,"6,20,16,29",17.3,47.2,15.6,lunch
+25,Greek Salad with Grilled Chicken,380,"1,8,14,29,30",36.8,11.2,20.4,lunch
+26,Turkey and Cranberry Salad,320,"25,13,14,28",22.3,39.1,11.7,lunch
+27,Chicken Caesar Wrap with Side Salad,420,"1,8,14,28,29",41.5,22.9,17.4,lunch
+28,Beef Stir Fry with Rice Noodles,380,"23,18,30,33",23.4,50.7,7.8,lunch
+29,Salmon Nicoise Salad,320,"4,15,18,28",31.5,18.9,17.3,lunch
+30,Tofu and Vegetable Stir Fry,350,"27,18,19,26,32",24.2,31.6,13.6,lunch
+31,Quinoa Stuffed Bell Peppers,380,"6,3,18,30",14.2,67.5,9.8,lunch
+32,Chicken Alfredo Pasta Bake,420,"1,29,32,56",31.6,46.2,18.5,dinner
+33,Shrimp and Broccoli Stir Fry,380,"26,3,18,32",31.9,29.4,14.6,dinner
+34,Beef and Mushroom Wellington,450,"23,42,42,33",42.1,41.8,16.3,dinner
+35,Pork Chops with Apple Chutney,420,"24,12,17,47",36.3,30.7,18.2,dinner
+36,Lemon Garlic Roasted Chicken,380,"1,8,14,48",40.5,5.2,22.6,dinner
+37,Spaghetti Aglio e Olio,350,"23,43,32,51",12.4,46.5,14.8,dinner
+38,Veggie Burger with Sweet Potato Fries,420,"20,29,5,5",14.7,64.8,12.3,dinner
+39,Salmon with Mango Salsa,380,"4,37,30",34.2,23.6,15.8,dinner
+40,Mushroom Risotto with Truffle Oil,350,"18,55,32",13.6,46.8,8.9,dinner
+41,Breakfast Quesadilla with Salsa,420,"7,14,16,32,52",27.3,46.1,16.7,breakfast
+42,Banana Bread French Toast,380,"9,10,24,60",10.2,61.9,15.7,breakfast
+43,Egg Muffins with Spinach and Feta,320,"7,8,14,58",22.4,4.9,23.1,breakfast
+44,Granola with Yogurt and Mixed Berries,350,"9,10,13,29",14.3,58.7,9.2,breakfast
+45,Chicken Caesar Salad Wrap,420,"1,8,14,28,29",39.2,25.1,22.3,lunch
+46,Quinoa and Black Bean Burrito Bowl,350,"6,21,30,32",13.4,57.8,8.9,lunch
+47,Turkey and Hummus Wrap,380,"25,30,32,61",32.8,30.4,17.1,lunch
+48,Vegetable and Tofu Pad Thai,420,"27,18,19,26,32",18.9,62.3,14.6,lunch
+49,Chickpea Salad with Lemon Dressing,320,"20,13,14,57",14.8,50.2,8.7,lunch
+50,Beef and Broccoli Ramen,380,"23,18,29,30,32",28.1,43.6,12.9,lunch
+51,Chicken Parmesan with Spaghetti,420,"1,23,29,32,56",42.1,54.8,18.6,dinner
+52,Shrimp Scampi with Linguine,380,"26,29,32,57",31.9,42.8,10.7,dinner
+53,Beef Stroganoff with Egg Noodles,450,"23,29,32,41",33.4,47.2,19.8,dinner
+54,Pork Carnitas Tacos with Pineapple Salsa,420,"24,13,30,37",24.5,55.8,15.2,dinner
+55,Lemon Herb Roasted Salmon,380,"4,18,29,58",37.5,4.3,23.6,dinner
+56,Spinach and Ricotta Stuffed Shells,350,"8,18,29,30,32,59",16.8,42.1,12.9,dinner
+57,Stuffed Bell Peppers with Quinoa and Black Beans,380,"6,21,30,48,49",14.2,66.9,10.6,dinner
+58,Teriyaki Tofu Stir Fry,420,"27,18,19,26,32",23.6,45.7,16.3,dinner
+59,Spicy Chicken and Vegetable Noodle Soup,350,"1,18,19,26,32,51",24.9,38.2,10.4,dinner
+60,Greek Salad with Falafel,380,"20,29,30,59",23.5,24.6,17.8,lunch
+

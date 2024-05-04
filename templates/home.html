@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MealPlanner</title>
+    <h1>MealPlanner</h1>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  </head>
+  <body>
+	  <p><a href="/add-user">New User? Join the Meal Plan Program!</a></p>
+	  <h1>Meals</h1>
+	  
+	  <table class="table">
+		  <thead>
+			  <tr>
+				  <th>Meal Name</th>
+				  <th>Calories</th>
+				  <th>Protein</th>
+				  <th>Carbs</th>
+				  <th>Fat</th>
+				  <th>MealType</th>
+			  </tr>
+		  </thead>
+		  <tbody>
+			  {% for meal in meals %}
+			  <tr>
+				  <td>{{ meal.meal_name }}</td>
+				  <td>{{ meal.calories }}</td>
+				  <td>{{ meal.protein }}</td>
+				  <td>{{ meal.carbs }}</td>
+				  <td>{{ meal.fat }}</td>
+				  <td>{{ meal.meal_type }}</td>
+			  </tr>
+			  {% endfor %}
+		  </tbody>
+	  </table>
+
+
+	  <h1>Ingredients</h1>
+	  
+	  <table class="table">
+		  <thead>
+			  <tr>
+				  <th>Ingredient Name</th>
+				  <th>Calories</th>
+				  <th>Protein</th>
+				  <th>Carbs</th>
+				  <th>Fat</th>
+			  </tr>
+		  </thead>
+		  <tbody>
+			  {% for ingredient in ingredients %}
+			  <tr>
+				  <td>{{ ingredient.ingredient_name }}</td>
+				  <td>{{ ingredient.calories }}</td>
+				  <td>{{ ingredient.protein }}</td>
+				  <td>{{ ingredient.carbs }}</td>
+				  <td>{{ ingredient.fat }}</td>
+
+			  </tr>
+			  {% endfor %}
+		  </tbody>
+	  </table>
+
+ 
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+  </body>
+</html>
